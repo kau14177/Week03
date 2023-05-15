@@ -5,7 +5,7 @@
 package printstudentdetails;
 
 /**
- *
+ * Monday today
  * @author Gagandeep Kaur
  */
 public class Printstudentdetails {
