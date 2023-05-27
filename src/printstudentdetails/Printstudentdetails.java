@@ -39,6 +39,7 @@ public class Printstudentdetails {
                 for (int i=0; i<list.length; i++) //read the array 
                 {
                 System.out.println(list[i].getName() + " "+list[i].getAge());
+                System.out.println ("Gagandeep Kaur"); 
                 }
                 
         
